@@ -10,7 +10,7 @@ import image4 from '../../assets/images/testmonial/testimonialFive.png'
 import image5 from '../../assets/images/testmonial/testimonialSix.png'
 import image6 from '../../assets/images/testmonial/testimonialSeven.png'
 import image7 from '../../assets/images/testmonial/testimonialEight.png'
-import image8 from '../../assets/images/testmonial/testimonialNine.png'
+// import image8 from '../../assets/images/testmonial/testimonialNine.png'
 import { motion, AnimatePresence } from "framer-motion";
 
 const Testimonials = () => {
@@ -63,12 +63,12 @@ const Testimonials = () => {
   testimonial_name: 'Mark Cruel',
   text_block: 'Metrix National'
 },
-{
-  img: image8,
-  content_text: 'I appreciate a job well completed! Honestly, I am grateful for how industrious, tolerant, and genuine you are in regard to your duties! Job Well ...',
-  testimonial_name: 'Vilan Loph',
-  text_block: 'NLX Limited'
-}
+// {
+//   img: image8,
+//   content_text: 'I appreciate a job well completed! Honestly, I am grateful for how industrious, tolerant, and genuine you are in regard to your duties! Job Well ...',
+//   testimonial_name: 'Vilan Loph',
+//   text_block: 'NLX Limited'
+// }
 
    ]
 
