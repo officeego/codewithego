@@ -59,7 +59,7 @@ const Resume = () => {
                 : "border-transparent"
             } resumeLi`}
           >
-            Experience
+            ExPerience
           </li>
           <li
             onClick={() =>
