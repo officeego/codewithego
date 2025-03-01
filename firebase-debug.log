@@ -1,0 +1,28 @@
+[debug] [2025-03-01T17:36:20.682Z] ----------------------------------------------------------------------
+[debug] [2025-03-01T17:36:20.689Z] Command:       /Users/egoblasius/.nvm/versions/node/v22.6.0/bin/node /Users/egoblasius/.nvm/versions/node/v22.6.0/bin/firebase init
+[debug] [2025-03-01T17:36:20.690Z] CLI Version:   13.29.1
+[debug] [2025-03-01T17:36:20.691Z] Platform:      darwin
+[debug] [2025-03-01T17:36:20.691Z] Node Version:  v22.6.0
+[debug] [2025-03-01T17:36:20.691Z] Time:          Sat Mar 01 2025 18:36:20 GMT+0100 (West Africa Standard Time)
+[debug] [2025-03-01T17:36:20.692Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-03-01T17:36:20.708Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-03-01T17:36:20.709Z] > authorizing via signed-in user (myegooffice@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/egoblasius/Desktop/codewithego
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 

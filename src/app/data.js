@@ -47,6 +47,13 @@ export const projectsData = [
     demoLink: "https://sanity-amazona-main-three.vercel.app/",
   },
   {
+    id: 4,
+    name: "An Online Shop",
+    description: "Monitor Digital Product",
+    date: "2022-05-30",
+    demoLink: "https://socialappe-72b1d.web.app/",
+  },
+  {
     id: 5,
     name: "RecipeFinder",
     description: "Discover new recipes",
